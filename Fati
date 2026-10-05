@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Faton's Website</title>
+
+    <style>
+
+        body {
+
+            margin: 0;
+
+            background: #050505;
+
+            color: white;
+
+            font-family: Arial, sans-serif;
+
+            text-align: center;
+
+        }
+
+        header {
+
+            padding: 60px 20px;
+
+            background: linear-gradient(135deg, #080808, #1a0033);
+
+        }
+
+        h1 {
+
+            font-size: 50px;
+
+            margin: 0;
+
+        }
+
+        p {
+
+            color: #aaa;
+
+            font-size: 18px;
+
+        }
+
+        .button {
+
+            display: inline-block;
+
+            margin-top: 20px;
+
+            padding: 14px 28px;
+
+            background: #7b00ff;
+
+            color: white;
+
+            text-decoration: none;
+
+            border-radius: 10px;
+
+            transition: 0.3s;
+
+        }
+
+        .button:hover {
+
+            background: #b000ff;
+
+            transform: scale(1.05);
